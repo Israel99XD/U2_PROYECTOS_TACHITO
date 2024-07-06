@@ -1,3 +1,6 @@
+![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/52d2ce2a-2769-4327-8ea4-d807c9f19ffb)
+
+
 | UNIDAD 2  | DESARROLLO PARA DISPOSITIVOS INTELIGENTES |
 | ------------- | ------------- |
 | ALUMNO  | JOSÉ ISRAEL SALDAÑA GODÍNEZ  |
