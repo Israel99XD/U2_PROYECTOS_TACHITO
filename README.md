@@ -7,6 +7,8 @@
 | PROFESOR  | ANASTACIO ROFRIGUEZ GARCIA  |
 | N° CONTROL | 12020100579 |
 
+![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/7ce85117-a388-4d7f-ad21-8705be809a51)
+
 # CAPTURAS DE EVIDENCIA
 
 # Ejercicios del 01 al 04
