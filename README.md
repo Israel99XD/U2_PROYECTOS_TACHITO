@@ -21,7 +21,7 @@ El resulltado fue el siguiente. [Ir al código](https://github.com/Israel99XD/U2
 
 ## VARIABLES
 #### En este mismo proyecto aprendimos a crear y definir variables asi como a hacer uso de estas con distinto tipo de dato. El codigo se encuentra en la carpeta (dart_basics/bin/dart_variables.dart)
-El resultado fue el siguiente [Ir al código](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_basics/bin/dart_iterables.dart)
+El resultado fue el siguiente [Ir al código](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_basics/bin/dart_variables.dart)
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/5658b17c-c908-4357-bbeb-e6c2ddd6f034)
 
 ## LIST, MAPS Y ITERABLES
