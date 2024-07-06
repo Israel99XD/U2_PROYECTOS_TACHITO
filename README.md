@@ -16,7 +16,7 @@
 ## HELLO WORLD
 
 #### Para esta actividad instalamos Dart y Flutter en nuestro entorno de trabajo que es VSC, de igual manera creamos nuestro primer Hola mundo mostrando el mensaje en consola, el codigo se encuentra en la carpeta (dart_basics/bin/dart_basics.dart).
-El resulltado fue el siguiente.
+El resulltado fue el siguiente. [Ir al código](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_basics/bin/dart_basics.dart)
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/6c4bced7-58eb-4b08-93e7-8054c9f0b389)
 
 ## VARIABLES
