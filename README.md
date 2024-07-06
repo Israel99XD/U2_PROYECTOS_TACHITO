@@ -62,7 +62,7 @@ El resultado fue el siguiente
 El resultado fue el siguiente
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/7fceb756-ec59-4556-b22f-dab818d385c1)
 
-# ASYNC Y AWAIT EN DART
+## ASYNC Y AWAIT EN DART
 #### Async/await es una característica de Dart que nos permite escribir código asincrónico que se ve y se comporta como código sincrónico, lo que lo hace más fácil de leer. Cuando una función está marcada como async , significa que realizará algún trabajo que podría llevar algún tiempo y devolverá un objeto Future que envuelve el resultado de ese trabajo.
 #### Por otro lado, la palabra clave await permite retrasar la ejecución de una función asincrónica hasta que el futuro esperado haya finalizado. Esto nos permite crear código que parece sincrónico pero en realidad es asincrónico.
 #### Las palabras clave async y await proporcionan una forma declarativa de definir una función asincrónica y utilizar sus resultados. Puede utilizar la palabra clave async antes del cuerpo de una función para convertirla en asincrónica. Puede utilizar la palabra clave await para obtener el resultado completo de una expresión asincrónica.
@@ -70,14 +70,14 @@ El resultado fue el siguiente
 El resultado fue el siguiente
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/826fb707-1158-4297-8fdb-a257d5c6e542)
 
-# TRY CATCH FINALLY
+## TRY CATCH FINALLY
 #### En Dart y muchos otros lenguajes de programación, el propósito de la instrucción es manejar errores y excepciones que pueden ocurrir durante la ejecución de un programa. Los errores son problemas que impiden que el programa se ejecute correctamente, como errores de sintaxis o errores de tipo. Las excepciones son problemas que ocurren mientras el programa se está ejecutando, como un archivo no encontrado o una división por cero. La sintaxis le permite especificar qué acciones tomar cuando ocurre un error o una excepción, y qué acciones tomar independientemente de si ocurre un error o una excepción. El ejemplo muestra un problema matematico y como el try catch va a responder segun sea el caso. El codigo se encuentra en la carpeta (try_catch_finally/bin/try_catch_finally.dart)
 El resultado es el siguiente, en donde se hace la division entre 0.
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/1463158d-a513-4759-9ddf-091c9b6dea0c)
 El resultado cuando se hace la operación correcta y en el try catch de abajo se cambia el tamaño del arreglo
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/44445cd2-9d57-4b2e-9da9-3b17624e3171)
 
-# STREAMS
+## STREAMS
 #### Un stream o flujo proporciona una forma de recibir una secuencia de eventos. Cada evento es un evento de datos, también llamado elemento del stream, o un evento de error, que es una notificación de que algo ha fallado. Cuando un stream ha emitido todos sus eventos, un único evento "terminado" notifica al receptor que se ha llegado al final.
 #### Para producir un flujo, se llama a una async *función* que luego devuelve un flujo. Si se consume ese flujo, la función emitirá eventos hasta que finalice y el flujo se cierre. Se consume un flujo mediante un await forbucle, que está disponible dentro de una función asyncor *async*, o reenviando sus eventos directamente mediante *yield* dentro de una *async*función. El codigo se encuentra en la carpeta (streams_dart/bin/streams.dart)
 El resultado fue el siguiente
