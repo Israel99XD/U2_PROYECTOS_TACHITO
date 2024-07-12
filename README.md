@@ -96,3 +96,16 @@ El resultado fue el siguiente [Ir al código](https://github.com/Israel99XD/U2_P
 El resultado de un flujo asincrono, cada un segundo se va mostrando un mensaje en donde cuando el contador llegue a 9 el flujo va a terminar. El codigo se encuentra en la carpeta (streams_dart/bin/stream_async_await.dart) [Ir al código](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/streams_dart/bin/stream_async_await.dart)
 ![image](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/assets/94139601/ab9e0fc2-ca95-44fb-8da5-f506dc2197f6)
 
+# Aplicación HelloWorld
+#### Para esta actividad creamos el primer Hola mundo visual, una aplicacion sencilla enfocada a un contador, un boton para aumentar el contado, uno para restar el contador y por ultimo uno para resetearlo, se aprecia tambien un digito en el centro de la pantalla, este es nuestro contados. El proyecto esta en la siguiente carpeta [Ir al proyecto](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/tree/main/hola_mundos)
+El resultado fue el siguiente
+![image](https://github.com/user-attachments/assets/ada37fef-462e-4eb6-ba4b-c8fcf9dc3a71)
+
+![image](https://github.com/user-attachments/assets/63603403-7720-479f-8034-e080ee9a8caa)
+
+# Aplicación YesOrNo
+#### En este proyecto realizamos una aplicación con algunas funciones la cual consiste en un chan en el cual le hacemos una pregunta terminando con un signo de interrogación y el chat nos responde SI o NO aleatoriamente. El proyecto se encuentra en la siguiente carpeta [Ir al proyecto](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/tree/main/yes_no_app)
+Como en el resultado siguiente.
+![image](https://github.com/user-attachments/assets/09186ea1-8b5a-41c7-9c23-ff27529387d2)
+
+![image](https://github.com/user-attachments/assets/7a62344c-49ae-47ce-a38f-19af4526f017)
