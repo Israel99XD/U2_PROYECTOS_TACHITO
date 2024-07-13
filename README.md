@@ -109,3 +109,38 @@ Como en el resultado siguiente.
 ![image](https://github.com/user-attachments/assets/09186ea1-8b5a-41c7-9c23-ff27529387d2)
 
 ![image](https://github.com/user-attachments/assets/7a62344c-49ae-47ce-a38f-19af4526f017)
+
+# EJERCICIOS ADICIONALES
+
+## Dart Lambda
+#### Las funciones lambda, también conocidas como arrow functions, son una sintaxis para declarar funciones anónimas de forma concisa y expresiva. Una función anónima es aquella que definimos sin un nombre específico. Es decir, a diferencia de las funciones regulares, no se definen con una declaración completa y no requieren un identificador. La principal ventaja de las funciones lambda es su capacidad para ser creadas y utilizadas de forma inmediata. Esto es muy útil, por ejemplo, si es una función que vamos a usar una única vez. Las funciones lambda son una herramienta poderosa en la programación, especialmente cuando se trata de escribir código más conciso y legible.
+El codigo se encuentra en el siguiente enlace [Ir al codigo](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_lambda/bin/dart_lambda.dart)
+El resultado fue el siguiente
+![image](https://github.com/user-attachments/assets/e9083175-cbb3-404f-afa7-40916b162c4d)
+
+## Dart Continue
+#### La instrucción continue omite las instrucciones subsiguientes en la iteración actual y lleva el control de nuevo al comienzo del bucle. A diferencia de la instrucción break , la instrucción continue no sale del bucle. Finaliza la iteración actual y comienza la iteración subsiguiente. El codigo ae encuentra en el siguiente enlace 
+[Ir al codigo](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_continue/bin/dart_continue.dart)
+
+El siguiente ejemplo muestra cómo se puede utilizar la declaración continue en Dart
+![image](https://github.com/user-attachments/assets/80e55bb1-a3fd-4a5e-bbde-829bd61a57ce)
+
+## Dart Arrow
+#### Las funciones de sintaxis corta (Arrow) son declaradas en la misma línea y sólo pueden tener una expresión, misma que se declara después de una flecha (=>).
+#### En Dart, tenemos la notación de flecha gruesa (=>). Una flecha gruesa se utiliza para definir una sola expresión en una función. Esta es una forma más clara de escribir funciones con una sola declaración.
+El codigo se encuentra en el siguiente enlace [Ir al codigo](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_arrow/bin/dart_arrow.dart)
+El resultado fue el siguiente
+
+![image](https://github.com/user-attachments/assets/549fbc78-ae44-4807-8776-e7b6848b3dae)
+
+## Dart If
+#### El if/else ejecuta una sentencia si una condición especificada es evaluada como verdadera. Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
+#### El codigo esta en el siguiente enlace [Ir al codigo](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_if/bin/dart_if.dart)
+El resultado fue el siguiente
+![image](https://github.com/user-attachments/assets/930d147b-882c-4d24-8abc-bea2553113a5)
+
+## Dart Filter
+#### FilterList es un paquete de Flutter que proporciona una utilidad para buscar/filtrar en base a una selección única o múltiple de una lista dinámica proporcionada.
+#### El codigo esta en el siguiente enlace [Ir al codigo](https://github.com/Israel99XD/U2_PROYECTOS_TACHITO/blob/main/dart_filter/bin/dart_filter.dart)
+El resultado fue el siguiente
+![image](https://github.com/user-attachments/assets/4464c60b-2fc6-4bae-bcb6-3b673a70f1a2)
